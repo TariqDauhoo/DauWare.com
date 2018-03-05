@@ -1,0 +1,67 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.DauWare.com" resolutions="1x" timestamp="1520279485830">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="side-feats.css" crc="138868274" ref="side-feats"/>
+    <file name="mobile-apps.css" crc="4216589668" ref="mobile-apps"/>
+    <file name="index.css" crc="4142412951" ref="index"/>
+    <file name="contacts.css" crc="158011944" ref="contacts"/>
+    <file name="about.css" crc="4267078730" ref="about"/>
+    <file name="music.css" crc="4244888243" ref="music"/>
+    <file name="articles.css" crc="3852430159" ref="articles"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:mobile-apps:about:contacts:music:side-feats:articles"/>
+    <file name="museutils.js" crc="3803043152" ref="index:mobile-apps:about:contacts:music:side-feats:articles"/>
+    <file name="whatinput.js" crc="86476730" ref="index:mobile-apps:about:contacts:music:side-feats:articles"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:mobile-apps:about:contacts:music:side-feats:articles"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:mobile-apps:about:contacts:music:side-feats:articles"/>
+    <file name="require.js" crc="4157109226" ref="index:mobile-apps:about:contacts:music:side-feats:articles"/>
+  </folder>
+  <folder name="images">
+    <file name="u397-4-a.png" crc="4046681372" ref="index"/>
+    <file name="u401-4.png" crc="53198266" ref="index"/>
+    <file name="dauware site banner-recovered.png" crc="4112672032" seo="true" ref="index:mobile-apps:about:contacts:music:side-feats:articles">
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="side-feats" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="articles" alt=""/>
+      <caption webpage="mobile-apps" alt=""/>
+    </file>
+    <file name="dauware banner-crop-u255.jpg" crc="3892629751" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="smartphone.png" crc="3892195899" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="speech-bubble-12.png" crc="3906125659" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="headphones.png" crc="3969635532" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cursor-2.png" crc="3834929111" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u550-4.png" crc="4023452097" ref="mobile-apps"/>
+    <file name="u543-4.png" crc="528940169" ref="mobile-apps"/>
+    <file name="u744-4.png" crc="4046681372" ref="about"/>
+    <file name="u741-4.png" crc="53198266" ref="about"/>
+    <file name="u769-4.png" crc="4046681372" ref="contacts"/>
+    <file name="u767-4.png" crc="53198266" ref="contacts"/>
+    <file name="u787-4.png" crc="4046681372" ref="music"/>
+    <file name="u783-4.png" crc="53198266" ref="music"/>
+    <file name="u822-4.png" crc="4046681372" ref="side-feats"/>
+    <file name="u825-4.png" crc="53198266" ref="side-feats"/>
+    <file name="u839-4.png" crc="4046681372" ref="articles"/>
+    <file name="u837-4.png" crc="53198266" ref="articles"/>
+  </folder>
+  <file name="index.html" crc="450246445" seo="true" mt="1520278895767" redirect="true"/>
+  <file name="mobile-apps.html" crc="4070301652" seo="true" mt="1520278747742" redirect="true"/>
+  <file name="about.html" crc="114886406" seo="true" mt="1520278044598" redirect="true"/>
+  <file name="contacts.html" crc="199667023" seo="true" mt="1520278051655" redirect="true"/>
+  <file name="music.html" crc="477625597" seo="true" mt="1520278057180" redirect="true"/>
+  <file name="side-feats.html" crc="60173011" seo="true" mt="1520278061917" redirect="true"/>
+  <file name="articles.html" crc="123807175" seo="true" mt="1520278066725" redirect="true"/>
+</manifest>
